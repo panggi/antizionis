@@ -1,0 +1,46 @@
+CRC32 : C5CF905E
+File Size : 131.139 Byte
+
+%SystemRoot%\system32\060785.bat
+-------------------------
+HKLM\SYSTEM\ControlSet003\Control\SafeBoot\AlternateShell
+c:\windows\Help\explorer.exe
+-------------------------
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoFolderOptions
+HKLM\Software\Policies\Microsoft\Windows NT\SystemRestore\DisableConfig
+HKLM\Software\Policies\Microsoft\Windows NT\SystemRestore\DisableSR
+HKCU\Control Panel\Desktop\SCRNSAVE.EXE
+HKCU\Control Panel\Desktop\ScreenSaveTimeOut
+c:\ahmad ahdi haikal zaqi nasia.exe
+\system32\aparaparsaparyangparipircapar.exe
+\system32\300403.exe
+pilem lutchu\Doraemon-Pistol Perubah Tubuh Sebagian.rm.exe
+pilem lutchu\Sinchan-Menginap Di Sekolah.rm.exe
+pilem lutchu\TOM & JERRY 2.rm.exe
+c:\antiZionisme.rm.exe
+HKCR\.reg\shell
+HKCR\.reg\shell\Merge\
+HKCR\.reg\shell\Merge\command\
+HKCR\.txt\
+HKCR\.txt\shell
+HKCR\.txt\shell\Open\command\
+HKCR\*\shellex\ContextMenuHandlers\Open With\
+HKCR\.htm\
+HKCR\.html\
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\SuperHidden\UncheckedValue
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\Hidden\SHOWALL\CheckedValue
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\Hidden\SHOWALL\DefaultValue
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\Hidden\NOHIDDEN\CheckedValue
+HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Folder\Hidden\NOHIDDEN\DefaultValue
+HKLM\Software\Microsoft\Windows\CurrentVersion\\Policies\System\NoDispScrSavPage
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt
+HKCU\Control Panel\Desktop\MenuShowDelay
+HKCU\Control Panel\Desktop\AutoEndTasks
+----------------
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\MSCONFIG.EXE\
+%SystemRoot%\system32\appdata.vbs
+----------------
+\system32\run4.bat
+\system32\HacKid'#39's.exe
+%SystemRoot%\system32\050587.vbs
